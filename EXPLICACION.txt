@@ -1,0 +1,6 @@
+Explicación
+
+-	Login, registro, catalogo de productos, carro de compras y pagina suscripción se encuentran a simple vista del navbar, 
+        mientras que ver carros de compra y mis compras se encuentras al costado derecho del navbar con un icono de carro y un icono de menú que se despliega dejando a simple vista mis compras y en caso de que el usuario se quiera desuscribir.
+-	El CRUD de producto y CRUD de descuento lo creamos en una carpeta diferente, 
+        ya que en estos Crud solamente tendrá acceso el administrados, donde usted podrá navegar en estos 2 crud mediante el navbar, dejando espacio de esas dos paginas en MODIFICACIONES
